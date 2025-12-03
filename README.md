@@ -45,20 +45,6 @@ I like tools, patterns, and designs that feel **minimal, dark, and professional*
 
 ---
 
-# 🎧 Spotify — Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rxzlf7uebsjnjmryprxrqqk5ma&cover_image=true&theme=novatorem&background_color=0d0d0d&interchange=false&show_offline=true"/>
-</p>
-
----
-
-# 💬 Discord Status
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1309013418526769285?theme=dark&bg=0d0d0d&borderRadius=10&animated=true"/>
-</p>
-
----
-
 # 📊 GitHub Insights
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=zain-Abusal&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github"/>
