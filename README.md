@@ -1,71 +1,59 @@
-<!-- Banner -->
+<!-- Minimal Professional Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8f3afe&height=200&section=header&text=Zain%20Abusal&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<h3 align="center">Student Developer • Frontend Learner • Game Dev Explorer</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/zain-Abusal?style=for-the-badge&color=8f3afe">
-  <img src="https://img.shields.io/github/stars/zain-Abusal?style=for-the-badge&color=6e40c9">
-  <img src="https://komarev.com/ghpvc/?username=zain-Abusal&style=for-the-badge&color=blueviolet">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d12&height=140&section=header&text=Zain%20Abusal&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Student%20Developer%20•%20Frontend%20&%20Game%20Dev%20Learner&descAlignY=70&descSize=14" />
 </p>
 
 ---
 
-# 🧩 **About Me**
+# 🧠 About Me
 
-- 🖥️ Building **web apps**, **dashboards**, and **UI experiments**  
-- 🐍 Skilled in **Python**, **HTML**, and learning **JavaScript & CSS**  
-- 🎮 Exploring **game dev** (logic, movement systems, interactions)  
-- 🎨 Love modern UI, animations, and great UX  
-- ⚡ Believe in learning by building  
-- 🌱 Improving daily & experimenting with new tech  
+Hi! I'm **Zain Abusal**, a student developer currently focusing on:
 
----
+- ⚡ Building clean & modern **web apps**  
+- 🎨 Learning frontend development (**HTML, Python → CSS, JS**)  
+- 🎮 Experimenting with small **game development logic**  
+- 💡 Improving every day by building real projects  
 
-# 🏷️ **Badges & ID**
-███████╗ █████╗ ██╗███╗   ██╗    ██╗   ██╗██████╗ ███████╗
-██╔════╝██╔══██╗██║████╗  ██║    ██║   ██║██╔══██╗██╔════╝
-███████╗███████║██║██╔██╗ ██║    ██║   ██║██████╔╝█████╗
-╚════██║██╔══██║██║██║╚██╗██║    ██║   ██║██╔══██╗██╔══╝
-███████║██║  ██║██║██║ ╚████║    ╚██████╔╝██║  ██║███████╗
-╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝     ╚═════╝ ╚═╝  ╚═╝╚══════╝
+I like **minimal design**, smooth UI, clean layouts, and purposeful code.
 
 ---
 
-# 🛠️ **Tech Stack**
+# 🛠️ Tech Stack
 
-### **Core Skills**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white)
+### Core Skills  
+![Python](https://img.shields.io/badge/Python-3A6CC4?style=flat&logo=python&logoColor=FFD43B)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
 
-### **Learning**
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![GameDev](https://img.shields.io/badge/Game_Dev-6e40c9?style=flat-square&logo=unity&logoColor=white)
+### Learning  
+![CSS](https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=000)
+![Game Dev](https://img.shields.io/badge/Game_Dev-6e40c9?style=flat&logo=unity&logoColor=white)
 
-### **Tools**
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f03c2e?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)
+### Tools  
+![VSCode](https://img.shields.io/badge/VSCode-007acc?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)
 
 ---
 
-# 🎵 **Now Playing on Spotify**
+# 🎵 Spotify — Now Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rxzlf7uebsjnjmryprxrqqk5ma&cover_image=true&theme=compact&show_offline=true&background_color=0d0d12&interchange=false" />
 </p>
 
-*(Optional — replace `YOUR_SPOTIFY_UID` if you want)*
+---
+
+# 💬 Discord Presence
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1309013418526769285?theme=dark&bg=0d0d12&borderRadius=8" />
+</p>
 
 ---
 
-# 📊 **GitHub Stats**
-
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zain-Abusal&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zain-Abusal&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zain-Abusal&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-Abusal&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
@@ -74,50 +62,33 @@
 
 ---
 
-# 🏆 **Trophies**
+# 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zain-Abusal&theme=tokyonight&no-frame=true&row=1">
+  <img src="https://github-profile-trophy.vercel.app/?username=zain-Abusal&theme=onedark&no-frame=true&column=4" />
 </p>
 
 ---
 
-# 🧊 **3D Contribution Calendar**
+# 📈 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshith-venkatesh/harshith-venkatesh/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-Abusal&theme=tokyo-night&bg_color=0d0d12&color=8f3afe&line=6e40c9&point=ffffff" />
 </p>
 
 ---
 
-# 🐍 **Contribution Snake**
+# 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/zain-Abusal/zain-Abusal/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/zain-Abusal/zain-Abusal/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 📌 **Featured Projects**  
-*(Add once your repos are made)*
-
-### 🔧 **Web Dashboards**
-- Modern UI  
-- Fast loading  
-- Clean components  
-
-### 🎮 **Game Experiments**
-- Movement logic  
-- Mini-games  
-
-### 🌐 **Web Tools**
-- Utilities  
-- UI pages  
-
----
-
-# 💼 **Hire Me / Contact**
-📧 Email: **zainabusal113@gmail.com**
+# 📫 Contact Me
+📧 **Email:** **zainabusal113@gmail.com**  
+If you want to collaborate, ask questions, or just connect — feel free to reach out!
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8f3afe&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d12&height=80&section=footer" />
 </p>
