@@ -2,6 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=140&section=header&text=Zain%20Abusal&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Student%20Developer%20•%20Frontend%20Learner%20•%20Game%20Dev%20Explorer&descAlignY=75&descSize=14" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Java%20Dev-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Java & Web development-fbbf24?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Country-Palestine-3b82f6?style=for-the-badge" />
+</p>
 
 ---
 
