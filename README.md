@@ -60,75 +60,101 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=2" width="100%"/>
 
 
-<h2 id="about">About</h2>
+<h2 align="center">About</h2>
 
+<div align="center">
 
-<table width="100%">
+<sub>
+Backend Developer • Java Systems • Infrastructure
+</sub>
 
+<br><br>
+
+<table width="90%">
 <tr>
 
-<td width="65%" valign="top">
+<td width="55%" valign="middle" align="center">
 
-
-I build software focused on **backend systems, infrastructure, and developer tooling**.
-
-My work combines **Java Dev**, **Minecraft platform development**, **authentication systems**, and **modern web applications**.
-
-Through **ZCraft Studios**, I design and ship production software including plugins, Discord systems, configuration tools, and full-stack applications used by real communities.
-
-I focus on creating software that is:
-
-- Reliable under real usage
-- Easy to maintain
-- Performant at scale
-- Cleanly designed
-
+<img 
+src="https://i.ibb.co/844ZWyvM/Screenshot-2026-07-14-201007.png"
+alt="Zain Abusal Developer Profile"
+width="100%"
+/>
 
 </td>
 
 
-<td width="35%" valign="top">
+<td width="45%" valign="middle">
+
+<h3>Hey, I'm Zain 👋</h3>
+
+I build software with a focus on backend engineering and system design.
+
+<br>
+
+Most of my work involves creating tools, platforms, and infrastructure where reliability and clean architecture matter.
+
+<br>
+
+I enjoy solving difficult problems, improving existing systems, and turning ideas into working software.
+
+<br><br>
+
+Currently exploring:
+
+<br>
+
+⚡ Java ecosystems  
+⚙️ Backend architecture  
+🔐 Authentication systems  
+🛠 Developer tooling
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
 
 
-name:      Zain Abusal
+<table width="85%">
+<tr>
 
-role:
-  Java Backend
+<td align="center">
+<h2>Java 21</h2>
+<sub>Primary Language</sub>
+</td>
 
-company:
-  ZCraft Studios
+<td align="center">
+<h2>Backend</h2>
+<sub>Main Focus</sub>
+</td>
 
-location:
-  Palestine
+<td align="center">
+<h2>10+</h2>
+<sub>Published Products</sub>
+</td>
 
-specialties:
-  - Backend Systems
-  - Infrastructure
-  - Full Stack
-  - Developer Tools
+<td align="center">
+<h2>100+</h2>
+<sub>Downloads</sub>
+</td>
 
-availability:
-   Weekends
-</td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=2" width="100%"/> <h2 id="impact">Engineering Impact</h2> <div align="center"> <table> <tr> <td align="center" width="25%"> <h2>10+</h2>
+</tr>
+</table>
 
-Commercial
-Products
 
-</td> <td align="center" width="25%"> <h2>100+</h2>
+<br>
 
-Downloads
 
-</td> <td align="center" width="25%"> <h2>Java 21</h2>
+<img src="https://img.shields.io/badge/Java%2021-EF4444?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/Backend%20Systems-0a0a0a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Infrastructure-0a0a0a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer%20Tools-0a0a0a?style=for-the-badge"/>
 
-Backend
-Systems
+<h2 id="impact">Impact</h2>
 
-</td> <td align="center" width="25%"> <h2>24/7</h2>
-
-Production
-Mindset
-
-</td> </tr> </table> </div> <br> <div align="center"> <img src="https://img.shields.io/badge/Backend%20Engineering-EF4444?style=for-the-badge&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Infrastructure-0a0a0a?style=for-the-badge"/> <img src="https://img.shields.io/badge/Authentication-0a0a0a?style=for-the-badge"/> <img src="https://img.shields.io/badge/Full--Stack-0a0a0a?style=for-the-badge"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=2" width="100%"/> <h2 id="stack">Technology Stack</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=java,lua,js,html,css,react,vite,tailwind,nodejs,py,mysql,postgres,git,github,vscode,discord&theme=dark&perline=8"/> </div> <br> <table width="100%"> <tr> <td width="25%" valign="top">
+</div> <div align="center"> <img src="https://img.shields.io/badge/Backend%20Engineering-EF4444?style=for-the-badge&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Infrastructure-0a0a0a?style=for-the-badge"/> <img src="https://img.shields.io/badge/Authentication-0a0a0a?style=for-the-badge"/> <img src="https://img.shields.io/badge/Full--Stack-0a0a0a?style=for-the-badge"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=2" width="100%"/> <h2 id="stack">Technology Stack</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=java,lua,js,html,css,react,vite,tailwind,nodejs,py,mysql,postgres,git,github,vscode,discord&theme=dark&perline=8"/> </div> <br> <table width="100%"> <tr> <td width="25%" valign="top">
 Languages
 Java
 Lua
@@ -480,6 +506,10 @@ Complete maintenance-mode messaging overhaul.
 **Price:** $3.72
 
 
+---
+
+
+
 ### EternalTags Config
 
 Customizable premium configured tags
@@ -598,12 +628,27 @@ Live statistics generated from GitHub activity.
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZraxGaming&show_icons=true&hide=stars&bg_color=0a0a0a&title_color=EF4444&icon_color=EF4444&text_color=cfcfcf&border_color=1a1a1a&hide_border=true"/>
+<img 
+height="200"
+src="https://github-readme-stats-fast.vercel.app/api?username=ZraxGaming&show_icons=true&hide=stars&include_all_commits=true&bg_color=0d0d0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5&hide_border=true"
+/>
 
+</td>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZraxGaming&layout=compact&bg_color=0a0a0a&title_color=EF4444&text_color=cfcfcf&border_color=1a1a1a&hide_border=true"/>
+<td width="50%" valign="top">
 
+<img 
+height="200"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZraxGaming&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=ef4444&text_color=e5e5e5&hide_border=true"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -711,9 +756,9 @@ and interesting engineering challenges.
 
 
 
-<a href="mailto:zainabusal113@gmail.com">
+<a href="mailto:zain@z-craft.xyz">
 
-<img src="https://img.shields.io/badge/zainabusal113%40gmail.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=contact&message=zain%40z-craft.xyz&color=EF4444&style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
