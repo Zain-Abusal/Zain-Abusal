@@ -1,6 +1,8 @@
 <h1 align="center">Zain Abusal</h1>
 
-<p align="center">grade 10 · dubai · founder of <a href="https://www.zcraftstudios.com">ZCraft Studios</a></p>
+<p align="center"><b>Founder @ <a href="https://www.zcraftstudios.com">ZCraft Studios</a> · Game Developer · Web Platforms & Self-hosting</b><br>
+<sub>Godot / GDScript · Linux · Docker · Cloudflare · Supabase · YAML / TOML / JSON · AI-assisted development</sub><br>
+<sub>grade 10 · Dubai</sub></p>
 
 <p align="center"><b>I ship things people actually use.</b></p>
 
@@ -40,9 +42,6 @@ I run a home server with Docker, Jellyfin and a Discord bot. My ISP's CGNAT mean
 
 Learning Python and Java. Looking for student programs, internships and projects in software, AI or game dev.
 
-<p>
-<img src="https://skillicons.dev/icons?i=godot,linux,docker,cloudflare,supabase,git,py,java&theme=dark" alt="Godot, Linux, Docker, Cloudflare, Supabase, Git, Python, Java"/>
-</p>
 
 ---
 
