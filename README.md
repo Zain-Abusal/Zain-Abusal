@@ -10,7 +10,7 @@ Grade 10 student in Dubai. I like taking an idea all the way to something people
 </p>
 <p>
 <a href="https://github.com/Zain-Abusal/code-sherlock"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/sherlock-dark.png"><img src="assets/cards/sherlock-light.png" width="49%" alt="CodeSherlock, a repo explorer"></picture></a>
-<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/server-dark.png"><img src="assets/cards/server-light.png" width="49%" alt="My home server behind a Cloudflare Tunnel"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/server-dark.png"><img src="assets/cards/server-light.png" width="49%" alt="My home server behind a Cloudflare Tunnel"></picture>
 </p>
 
 Also: [ZCraft Invoices](https://github.com/Zain-Abusal/zcraft-invoice-hub), a small tool that turns a commission into a Tebex payment link. Game source is in [Haven-Dubai](https://github.com/Zain-Abusal/Haven-Dubai).
