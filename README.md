@@ -20,7 +20,7 @@ Dubai, UAE · Grade 10 · Arabic and English
 
 - **Looking for:** a student program or internship in software, AI or game dev
 - **What I do:** take an idea all the way to something real people use and pay for
-- **How I build:** games I code by hand; web products I build with AI agents, then read, test and ship
+- **How I build:** some things by hand (my first Godot game), most with AI agents. Either way I read it, test it and ship it
 - **Learning now:** Python and Java
 
 |  **50+**  |  **$300+**  |  **5+**  |
@@ -29,7 +29,27 @@ Dubai, UAE · Grade 10 · Arabic and English
 
 ### Projects
 
-<details open>
+| Project | What it is | Built with | Try it |
+| :-- | :-- | :-- | :-- |
+| **[ZCraft Studios](https://www.zcraftstudios.com)** | My Minecraft config and plugin store, run solo | TanStack Start, Supabase, Cloudflare | [![site](https://img.shields.io/website?url=https%3A%2F%2Fwww.zcraftstudios.com&style=flat-square&label=store&up_message=online&up_color=3F8F4A)](https://www.zcraftstudios.com) |
+| **[WildLine](https://github.com/Zain-Abusal/WildLine-Shooter)** | 30-player browser battle game, no game engine | TypeScript, Canvas 2D, WebRTC | [![play](https://img.shields.io/website?url=https%3A%2F%2Fwildline-shooter.vercel.app&style=flat-square&label=play&up_message=online&up_color=3F8F4A)](https://wildline-shooter.vercel.app) |
+| **[Lost in Orbit](https://github.com/Zain-Abusal/Haven-Dubai)** | Low-gravity platformer from a hackathon | Godot, GDScript | [![itch](https://img.shields.io/badge/play-itch.io-45424A?style=flat-square&logo=itchdotio&logoColor=E8D9C2)](https://zain-abusal.itch.io/lost-in-orbit) |
+| **[CodeSherlock](https://github.com/Zain-Abusal/code-sherlock)** | Turns a GitHub repo into a workspace you can explore | TypeScript, AI APIs | [![live](https://img.shields.io/website?url=https%3A%2F%2Fcode-sherlock-one.vercel.app&style=flat-square&label=live&up_message=online&up_color=3F8F4A)](https://code-sherlock-one.vercel.app) |
+| **[ZCraft Invoices](https://github.com/Zain-Abusal/zcraft-invoice-hub)** | Turns a commission into a payment link | TanStack Start, Tailwind | [![repo](https://img.shields.io/github/last-commit/Zain-Abusal/zcraft-invoice-hub?style=flat-square&label=updated&color=45424A)](https://github.com/Zain-Abusal/zcraft-invoice-hub) |
+| **Home server** | Self-hosted box with no open ports | Docker, Linux, Cloudflare Tunnel | |
+
+### Problems I've solved
+
+- **A host leaving a multiplayer match.** In WildLine the host's browser runs the match. Every other player keeps a backup, so if the host closes the tab, someone else takes over and nobody loses their kills, health or ammo.
+- **Hosting from home behind CGNAT.** My ISP doesn't give me a public IP, so my server reaches the internet through a Cloudflare Tunnel instead of port forwarding.
+- **Selling digital files without a team.** ZCraft handles checkout, Discord sign-in and delivery on its own, so a sale doesn't need me awake.
+- **Learning an engine in one weekend.** I'd never opened Godot before the hackathon. Lost in Orbit shipped anyway, and low gravity is a lot harder to code than it sounds.
+
+<details>
+<summary><b>More detail on each project</b></summary>
+<br>
+
+<details>
 <summary><b>ZCraft Studios</b> · my Minecraft config and plugin store</summary>
 <br>
 
@@ -42,7 +62,7 @@ I run it alone, from planning features to support. Storefront, checkout, Discord
 
 </details>
 
-<details open>
+<details>
 <summary><b>WildLine</b> · browser battle game, no game engine</summary>
 <br>
 
@@ -103,6 +123,8 @@ My ISP said I couldn't host from home. A Cloudflare Tunnel disagreed. It runs Do
 
 </details>
 
+</details>
+
 ### Stack
 
 ![Godot](https://img.shields.io/badge/Godot-45424A?style=for-the-badge&logo=godotengine&logoColor=E8D9C2)
@@ -118,3 +140,5 @@ My ISP said I couldn't host from home. A Cloudflare Tunnel disagreed. It runs Do
 ![Claude Code](https://img.shields.io/badge/Claude_Code-E8D9C2?style=for-the-badge&logo=anthropic&logoColor=45424A)
 
 <sub>Plus a lot of YAML, TOML and JSON from running Minecraft servers.</sub>
+
+<sub>Best way to reach me: [LinkedIn](https://www.linkedin.com/in/zain-abusal/) or hello@zainabusal.dev</sub>
