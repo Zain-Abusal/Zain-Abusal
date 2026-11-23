@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/zain-abusal/"><img src="https://img.shields.io/badge/LinkedIn-zain--abusal-0A66C2?style=flat-square"/></a>
 <a href="https://www.zainabusal.dev"><img src="https://img.shields.io/badge/Portfolio-zainabusal.dev-111111?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.zcraftstudios.com"><img src="https://img.shields.io/badge/Studio-zcraftstudios.com-ef4444?style=flat-square&logoColor=white"/></a>
-<a href="mailto:zain@z-craft.xyz"><img src="https://img.shields.io/badge/Email-zain%40z--craft.xyz-7c3aed?style=flat-square&logo=maildotru&logoColor=white"/></a>
+<a href="mailto:hello@zainabusal.dev"><img src="https://img.shields.io/badge/Email-hello%40zainabusal.dev-7c3aed?style=flat-square&logo=maildotru&logoColor=white"/></a>
 </p>
 
 ### Hi, I'm Zain
@@ -32,7 +32,7 @@ I'm a grade 10 student in Dubai and the founder of ZCraft Studios. I like taking
 
 ### Toolkit
 
-| | |
+| Area | Tools |
 |---|---|
 | **Game dev** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white) |
 | **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
