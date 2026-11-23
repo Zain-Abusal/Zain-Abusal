@@ -42,6 +42,20 @@ I run it alone, from planning features to support. Storefront, checkout, Discord
 
 </details>
 
+<details open>
+<summary><b>WildLine</b> · browser battle game, no game engine</summary>
+<br>
+
+Open-world top-down shooter in TypeScript and plain Canvas 2D. Every match gets a fresh seeded map, 30 players with bots filling empty slots, and multiplayer that runs peer to peer over WebRTC. If the host leaves, another player's browser takes over the match. Plays on desktop and iPad.
+
+[![Play](https://img.shields.io/website?url=https%3A%2F%2Fwildline-shooter.vercel.app&style=flat-square&label=play&up_message=online&up_color=3F8F4A)](https://wildline-shooter.vercel.app)
+[![Source](https://img.shields.io/github/last-commit/Zain-Abusal/WildLine-Shooter?style=flat-square&label=source&color=45424A)](https://github.com/Zain-Abusal/WildLine-Shooter)
+![TypeScript](https://img.shields.io/badge/TypeScript-45424A?style=flat-square&logo=typescript&logoColor=E8D9C2)
+![WebRTC](https://img.shields.io/badge/WebRTC-45424A?style=flat-square&logo=webrtc&logoColor=E8D9C2)
+![Vercel](https://img.shields.io/badge/Vercel-45424A?style=flat-square&logo=vercel&logoColor=E8D9C2)
+
+</details>
+
 <details>
 <summary><b>Lost in Orbit</b> · low-gravity platformer, Haven Dubai hackathon</summary>
 <br>
@@ -100,6 +114,7 @@ My ISP said I couldn't host from home. A Cloudflare Tunnel disagreed. It runs Do
 ![Docker](https://img.shields.io/badge/Docker-45424A?style=for-the-badge&logo=docker&logoColor=E8D9C2)
 ![Linux](https://img.shields.io/badge/Linux-45424A?style=for-the-badge&logo=linux&logoColor=E8D9C2)
 ![Vercel](https://img.shields.io/badge/Vercel-45424A?style=for-the-badge&logo=vercel&logoColor=E8D9C2)
+![WebRTC](https://img.shields.io/badge/WebRTC-45424A?style=for-the-badge&logo=webrtc&logoColor=E8D9C2)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-E8D9C2?style=for-the-badge&logo=anthropic&logoColor=45424A)
 
 <sub>Plus a lot of YAML, TOML and JSON from running Minecraft servers.</sub>
