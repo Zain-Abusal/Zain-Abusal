@@ -11,7 +11,6 @@ Dubai, UAE · Grade 10 · Arabic and English
 [![Email](https://img.shields.io/badge/Email-hello%40zainabusal.dev-45424A?style=for-the-badge&logo=maildotru&logoColor=E8D9C2)](mailto:hello@zainabusal.dev)
 
 [![Open to internships](https://img.shields.io/badge/status-open_to_internships-3F8F4A?style=flat-square)](https://www.linkedin.com/in/zain-abusal/)
-[![Followers](https://img.shields.io/github/followers/Zain-Abusal?style=flat-square&label=followers&color=45424A)](https://github.com/Zain-Abusal?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=Zain-Abusal&style=flat-square&color=45424A&label=profile+views)](https://github.com/Zain-Abusal)
 [![zcraftstudios.com](https://img.shields.io/website?url=https%3A%2F%2Fwww.zcraftstudios.com&style=flat-square&label=zcraftstudios.com&up_message=online&up_color=3F8F4A)](https://www.zcraftstudios.com)
 
@@ -19,12 +18,10 @@ Dubai, UAE · Grade 10 · Arabic and English
 
 ### In 20 seconds
 
-|                     |                                                                       |
-| ------------------- | --------------------------------------------------------------------- |
-| **Looking for**     | A student program or internship in software, AI or game dev           |
-| **What I do**       | Take an idea all the way to something real people use and pay for     |
-| **How I build**     | Games I code by hand. Web products I build with AI agents, then read, test and ship |
-| **Learning now**    | Python and Java                                                       |
+- **Looking for:** a student program or internship in software, AI or game dev
+- **What I do:** take an idea all the way to something real people use and pay for
+- **How I build:** games I code by hand; web products I build with AI agents, then read, test and ship
+- **Learning now:** Python and Java
 
 |  **50+**  |  **$300+**  |  **5+**  |
 | :-------: | :---------: | :------: |
