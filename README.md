@@ -1,20 +1,18 @@
-<p>
-<img src="assets/cards/intro.png" width="66%" alt="Zain Abusal. Founder @ ZCraft Studios, Game Developer, Web & AI Developer. Grade 10 student in Dubai. Open to student programs and internships."/>
-<img src="assets/cards/stats.png" width="32%" alt="$300+ revenue in under 6 months, 5+ custom commissions, 50+ plays on Lost in Orbit"/>
-</p>
-<p>
-<a href="https://zain-abusal.itch.io/lost-in-orbit"><img src="assets/cards/orbit.png" width="49%" alt="Lost in Orbit: low-gravity space platformer from the Haven Dubai hackathon, made in Godot"/></a>
-<a href="https://www.zcraftstudios.com"><img src="assets/cards/zcraft.png" width="49%" alt="ZCraft Studios: my store for Minecraft configs, plugins and tools"/></a>
-</p>
-<p>
-<img src="assets/cards/stack.png" width="66%" alt="Toolkit: Godot, GDScript, TypeScript, React, Supabase, Linux, Docker, Cloudflare, Claude Code, YAML, TOML"/>
-<img src="assets/cards/now.png" width="32%" alt="Now: learning Python and Java, running a home server behind a Cloudflare Tunnel, Arabic and English"/>
-</p>
+<a href="https://zain-abusal.itch.io/lost-in-orbit"><img src="assets/orbit-walk.gif" width="100%" alt="The astronaut from my game Lost in Orbit walking toward a gem"/></a>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/zain-abusal/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://www.zainabusal.dev">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://www.zcraftstudios.com">ZCraft Studios</a> &nbsp;·&nbsp;
-<a href="https://github.com/Zain-Abusal/Haven-Dubai">Lost in Orbit source</a> &nbsp;·&nbsp;
-<a href="mailto:hello@zainabusal.dev">hello@zainabusal.dev</a>
-</p>
+### Hey, I'm Zain.
+
+Grade 10, Dubai. I ship things. Some of them I code by hand, some I build with AI agents, and every one of them ends up in front of real people who use it.
+
+**Things I've made**
+
+- **[Lost in Orbit](https://zain-abusal.itch.io/lost-in-orbit)**: a space platformer I coded by hand in Godot at the Haven Dubai hackathon, the first time I'd ever opened Godot. 50+ plays. [Source](https://github.com/Zain-Abusal/Haven-Dubai)
+- **[ZCraft Studios](https://www.zcraftstudios.com)**: my Minecraft config and plugin shop. $300+ and 5+ custom commissions in under 6 months. No team.
+- **[CodeSherlock](https://code-sherlock-one.vercel.app)**: point it at a GitHub repo, get an interactive workspace for it.
+- **[ZCraft Invoices](https://github.com/Zain-Abusal/zcraft-invoice-hub)**: fill in a commission and get a Tebex payment link back.
+
+My ISP said I couldn't host a server from home. My Cloudflare Tunnel disagreed.
+
+`Godot` `GDScript` `TypeScript` `React` `Supabase` `Cloudflare` `Docker` `Linux` `Claude Code`
+
+Open to student programs and internships in software, AI or games. Say hi on [LinkedIn](https://www.linkedin.com/in/zain-abusal/) or at hello@zainabusal.dev.
