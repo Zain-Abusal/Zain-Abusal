@@ -43,7 +43,7 @@ Dubai, UAE · Grade 10 · Arabic and English
 - **A host leaving a multiplayer match.** In WildLine the host's browser runs the match. Every other player keeps a backup, so if the host closes the tab, someone else takes over and nobody loses their kills, health or ammo.
 - **Hosting from home behind CGNAT.** My ISP doesn't give me a public IP, so my server reaches the internet through a Cloudflare Tunnel instead of port forwarding.
 - **Selling digital files without a team.** ZCraft handles checkout, Discord sign-in and delivery on its own, so a sale doesn't need me awake.
-- **Learning an engine in one weekend.** I'd never opened Godot before the hackathon. Lost in Orbit shipped anyway, and low gravity is a lot harder to code than it sounds.
+- **Learning an engine in one hackathon.** I'd never opened Godot before the hackathon. Lost in Orbit shipped anyway, and low gravity is a lot harder to code than it sounds.
 
 <details>
 <summary><b>More detail on each project</b></summary>
