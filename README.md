@@ -1,144 +1,85 @@
 <div align="center">
 
-# Zain Abusal
+<img
+  src="https://shieldcn.dev/header/surface.svg?title=Zain+Abusal&subtitle=Independent+Developer+%C2%B7+Software+%C2%B7+Games+%C2%B7+Infrastructure&mode=dark&font=geist&align=center"
+  alt="Zain Abusal — Independent Developer"
+  width="100%"
+/>
 
-**Game developer · Web builder · Founder of [ZCraft Studios](https://www.zcraftstudios.com)**<br>
-Dubai, UAE · Grade 10 · Arabic and English
+<p>
+  <a href="https://zainabusal.dev">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/zain-abusal/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://zain-abusal.itch.io">itch.io</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:hello@zainabusal.dev">Email</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zain--abusal-45424A?style=for-the-badge&logo=linkedin&logoColor=E8D9C2)](https://www.linkedin.com/in/zain-abusal/)
-[![Website](https://img.shields.io/badge/Website-zainabusal.dev-45424A?style=for-the-badge&logo=googlechrome&logoColor=E8D9C2)](https://www.zainabusal.dev)
-[![itch.io](https://img.shields.io/badge/itch.io-zain--abusal-45424A?style=for-the-badge&logo=itchdotio&logoColor=E8D9C2)](https://zain-abusal.itch.io)
-[![Email](https://img.shields.io/badge/Email-hello%40zainabusal.dev-45424A?style=for-the-badge&logo=maildotru&logoColor=E8D9C2)](mailto:hello@zainabusal.dev)
-
-[![Open to internships](https://img.shields.io/badge/status-open_to_internships-3F8F4A?style=flat-square)](https://www.linkedin.com/in/zain-abusal/)
-[![Profile views](https://komarev.com/ghpvc/?username=Zain-Abusal&style=flat-square&color=45424A&label=profile+views)](https://github.com/Zain-Abusal)
-[![zcraftstudios.com](https://img.shields.io/website?url=https%3A%2F%2Fwww.zcraftstudios.com&style=flat-square&label=zcraftstudios.com&up_message=online&up_color=3F8F4A)](https://www.zcraftstudios.com)
+<sub>Dubai, UAE &nbsp; / &nbsp; Founder of <a href="https://www.zcraftstudios.com">ZCraft Studios</a></sub>
 
 </div>
 
-### In 20 seconds
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readmint/generated/ticker.dark.svg">
+  <img alt="Recent GitHub activity" src="readmint/generated/ticker.svg" width="100%">
+</picture>
 
-- **Looking for:** a student program or internship in software, AI or game dev
-- **What I do:** take an idea all the way to something real people use and pay for
-- **How I build:** some things by hand (my first Godot game), most with AI agents. Either way I read it, test it and ship it
-- **Learning now:** Python and Java
+## About
 
-|  **50+**  |  **$300+**  |  **5+**  |
-| :-------: | :---------: | :------: |
-| plays on my first game | store revenue in under 6 months | paid custom commissions |
+I'm Zain — a developer who likes understanding how things work, then building something useful with that knowledge.
 
-### Projects
+I work across software, game development and infrastructure. I founded **[ZCraft Studios](https://www.zcraftstudios.com)**, an independent Minecraft development studio where I build and sell server resources, configurations and tools.
 
-| Project | What it is | Built with | Try it |
-| :-- | :-- | :-- | :-- |
-| **[ZCraft Studios](https://www.zcraftstudios.com)** | My Minecraft config and plugin store, run solo | TanStack Start, Supabase, Cloudflare | [![site](https://img.shields.io/website?url=https%3A%2F%2Fwww.zcraftstudios.com&style=flat-square&label=store&up_message=online&up_color=3F8F4A)](https://www.zcraftstudios.com) |
-| **[WildLine](https://github.com/Zain-Abusal/WildLine-Shooter)** | 30-player browser battle game, no game engine | TypeScript, Canvas 2D, WebRTC | [![play](https://img.shields.io/website?url=https%3A%2F%2Fwildline-shooter.vercel.app&style=flat-square&label=play&up_message=online&up_color=3F8F4A)](https://wildline-shooter.vercel.app) |
-| **[Lost in Orbit](https://github.com/Zain-Abusal/Haven-Dubai)** | Low-gravity platformer from a hackathon | Godot, GDScript | [![itch](https://img.shields.io/badge/play-itch.io-45424A?style=flat-square&logo=itchdotio&logoColor=E8D9C2)](https://zain-abusal.itch.io/lost-in-orbit) |
-| **[CodeSherlock](https://github.com/Zain-Abusal/code-sherlock)** | Turns a GitHub repo into a workspace you can explore | TypeScript, AI APIs | [![live](https://img.shields.io/website?url=https%3A%2F%2Fcode-sherlock-one.vercel.app&style=flat-square&label=live&up_message=online&up_color=3F8F4A)](https://code-sherlock-one.vercel.app) |
-| **[ZCraft Invoices](https://github.com/Zain-Abusal/zcraft-invoice-hub)** | Turns a commission into a payment link | TanStack Start, Tailwind | [![repo](https://img.shields.io/github/last-commit/Zain-Abusal/zcraft-invoice-hub?style=flat-square&label=updated&color=45424A)](https://github.com/Zain-Abusal/zcraft-invoice-hub) |
-| **Home server** | Self-hosted box with no open ports | Docker, Linux, Cloudflare Tunnel | |
+I learn best by shipping real projects: figuring out an unfamiliar system, connecting the pieces, testing what breaks and improving it until it works. I'm especially interested in backend engineering, multiplayer systems, developer tools and the infrastructure behind products.
 
-### Problems I've solved
+## Selected work
 
-- **A host leaving a multiplayer match.** In WildLine the host's browser runs the match. Every other player keeps a backup, so if the host closes the tab, someone else takes over and nobody loses their kills, health or ammo.
-- **Hosting from home behind CGNAT.** My ISP doesn't give me a public IP, so my server reaches the internet through a Cloudflare Tunnel instead of port forwarding.
-- **Selling digital files without a team.** ZCraft handles checkout, Discord sign-in and delivery on its own, so a sale doesn't need me awake.
-- **Learning an engine in one hackathon.** I'd never opened Godot before the hackathon. Lost in Orbit shipped anyway, and low gravity is a lot harder to code than it sounds.
+| Project | Overview |
+|:--|:--|
+| **[ZCraft Studios](https://www.zcraftstudios.com)** | An independent Minecraft development studio and storefront for plugins, configurations and server tools. |
+| **[WildLine](https://github.com/Zain-Abusal/WildLine-Shooter)** | A multiplayer browser shooter built with TypeScript and Canvas 2D. Uses WebRTC for peer-to-peer play and supports host handoff when the match host leaves. |
+| **[Lost in Orbit](https://github.com/Zain-Abusal/Haven-Dubai)** | A low-gravity platformer made for the Haven Dubai hackathon — my first project in Godot. |
+| **[CodeSherlock](https://github.com/Zain-Abusal/code-sherlock)** | An AI-assisted workspace for exploring GitHub repositories, understanding their structure and navigating code. |
+| **[ZCraft Invoice Hub](https://github.com/Zain-Abusal/zcraft-invoice-hub)** | An internal tool that turns custom commissions into checkout links. |
 
-<details>
-<summary><b>More detail on each project</b></summary>
-<br>
+## What I like working on
 
-<details>
-<summary><b>ZCraft Studios</b> · my Minecraft config and plugin store</summary>
-<br>
+- **Game systems** — multiplayer logic, gameplay mechanics, custom Minecraft plugins and tools.
+- **Web products** — storefronts, dashboards, internal tools and interfaces that stay simple to use.
+- **Backend & infrastructure** — APIs, databases, Linux servers, Docker and self-hosted services.
+- **Automation** — connecting services and removing repetitive work with small, focused tools.
 
-I run it alone, from planning features to support. Storefront, checkout, Discord sign-in, delivery and an admin panel.
+## Activity
 
-[![Visit](https://img.shields.io/badge/visit-zcraftstudios.com-45424A?style=flat-square)](https://www.zcraftstudios.com)
-![TanStack](https://img.shields.io/badge/TanStack_Start-45424A?style=flat-square&logo=reactquery&logoColor=E8D9C2)
-![Supabase](https://img.shields.io/badge/Supabase-45424A?style=flat-square&logo=supabase&logoColor=E8D9C2)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-45424A?style=flat-square&logo=cloudflare&logoColor=E8D9C2)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readmint/generated/year.dark.svg">
+  <img alt="GitHub contribution activity over the last twelve months" src="readmint/generated/year.svg" width="100%">
+</picture>
 
-</details>
+## Stack
 
-<details>
-<summary><b>WildLine</b> · browser battle game, no game engine</summary>
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readmint/generated/stack.dark.svg">
+  <img alt="Languages and technologies used across my repositories" src="readmint/generated/stack.svg" width="100%">
+</picture>
 
-Open-world top-down shooter in TypeScript and plain Canvas 2D. Every match gets a fresh seeded map, 30 players with bots filling empty slots, and multiplayer that runs peer to peer over WebRTC. If the host leaves, another player's browser takes over the match. Plays on desktop and iPad.
+I'm also learning more about Java plugin development, game architecture and backend design.
 
-[![Play](https://img.shields.io/website?url=https%3A%2F%2Fwildline-shooter.vercel.app&style=flat-square&label=play&up_message=online&up_color=3F8F4A)](https://wildline-shooter.vercel.app)
-[![Source](https://img.shields.io/github/last-commit/Zain-Abusal/WildLine-Shooter?style=flat-square&label=source&color=45424A)](https://github.com/Zain-Abusal/WildLine-Shooter)
-![TypeScript](https://img.shields.io/badge/TypeScript-45424A?style=flat-square&logo=typescript&logoColor=E8D9C2)
-![WebRTC](https://img.shields.io/badge/WebRTC-45424A?style=flat-square&logo=webrtc&logoColor=E8D9C2)
-![Vercel](https://img.shields.io/badge/Vercel-45424A?style=flat-square&logo=vercel&logoColor=E8D9C2)
+---
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>Lost in Orbit</b> · low-gravity platformer, Haven Dubai hackathon</summary>
-<br>
+<img
+  src="https://shieldcn.dev/header/glow.svg?title=Let%27s+build+something&subtitle=Always+open+to+interesting+ideas%2C+projects+and+collaborations&mode=dark&font=geist&align=center"
+  alt="Let's build something"
+  width="100%"
+/>
 
-First time ever opening Godot. I was the main developer and wrote the code by hand. Theme was "Bounce Back".
+<a href="mailto:hello@zainabusal.dev">hello@zainabusal.dev</a>
+&nbsp;·&nbsp;
+<a href="https://zainabusal.dev">zainabusal.dev</a>
 
-[![Play](https://img.shields.io/badge/play-itch.io-45424A?style=flat-square&logo=itchdotio&logoColor=E8D9C2)](https://zain-abusal.itch.io/lost-in-orbit)
-[![Source](https://img.shields.io/github/last-commit/Zain-Abusal/Haven-Dubai?style=flat-square&label=source&color=45424A)](https://github.com/Zain-Abusal/Haven-Dubai)
-![Godot](https://img.shields.io/badge/Godot-45424A?style=flat-square&logo=godotengine&logoColor=E8D9C2)
+<sub>Built with curiosity. Improved one project at a time.</sub>
 
-</details>
-
-<details>
-<summary><b>CodeSherlock</b> · turn any GitHub repo into a workspace you can explore</summary>
-<br>
-
-Paste a repo URL and get an architecture map, a list of likely bugs and a chat that points to the real files.
-
-[![Live](https://img.shields.io/website?url=https%3A%2F%2Fcode-sherlock-one.vercel.app&style=flat-square&label=live&up_message=online&up_color=3F8F4A)](https://code-sherlock-one.vercel.app)
-[![Stars](https://img.shields.io/github/stars/Zain-Abusal/code-sherlock?style=flat-square&color=45424A)](https://github.com/Zain-Abusal/code-sherlock)
-![TypeScript](https://img.shields.io/badge/TypeScript-45424A?style=flat-square&logo=typescript&logoColor=E8D9C2)
-
-</details>
-
-<details>
-<summary><b>ZCraft Invoices</b> · fill in a commission, get a payment link</summary>
-<br>
-
-Small internal tool for my custom work. It turns a job into a Tebex checkout link.
-
-[![Repo](https://img.shields.io/github/last-commit/Zain-Abusal/zcraft-invoice-hub?style=flat-square&label=repo&color=45424A)](https://github.com/Zain-Abusal/zcraft-invoice-hub)
-![Tailwind](https://img.shields.io/badge/Tailwind-45424A?style=flat-square&logo=tailwindcss&logoColor=E8D9C2)
-
-</details>
-
-<details>
-<summary><b>Home server</b> · self-hosted, no open ports</summary>
-<br>
-
-My ISP said I couldn't host from home. A Cloudflare Tunnel disagreed. It runs Docker, Jellyfin and a Discord bot.
-
-![Docker](https://img.shields.io/badge/Docker-45424A?style=flat-square&logo=docker&logoColor=E8D9C2)
-![Linux](https://img.shields.io/badge/Linux-45424A?style=flat-square&logo=linux&logoColor=E8D9C2)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-45424A?style=flat-square&logo=cloudflare&logoColor=E8D9C2)
-
-</details>
-
-</details>
-
-### Stack
-
-![Godot](https://img.shields.io/badge/Godot-45424A?style=for-the-badge&logo=godotengine&logoColor=E8D9C2)
-![TypeScript](https://img.shields.io/badge/TypeScript-45424A?style=for-the-badge&logo=typescript&logoColor=E8D9C2)
-![React](https://img.shields.io/badge/React-45424A?style=for-the-badge&logo=react&logoColor=E8D9C2)
-![Supabase](https://img.shields.io/badge/Supabase-45424A?style=for-the-badge&logo=supabase&logoColor=E8D9C2)
-![Tailwind](https://img.shields.io/badge/Tailwind-45424A?style=for-the-badge&logo=tailwindcss&logoColor=E8D9C2)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-45424A?style=for-the-badge&logo=cloudflare&logoColor=E8D9C2)
-![Docker](https://img.shields.io/badge/Docker-45424A?style=for-the-badge&logo=docker&logoColor=E8D9C2)
-![Linux](https://img.shields.io/badge/Linux-45424A?style=for-the-badge&logo=linux&logoColor=E8D9C2)
-![Vercel](https://img.shields.io/badge/Vercel-45424A?style=for-the-badge&logo=vercel&logoColor=E8D9C2)
-![WebRTC](https://img.shields.io/badge/WebRTC-45424A?style=for-the-badge&logo=webrtc&logoColor=E8D9C2)
-![Claude Code](https://img.shields.io/badge/Claude_Code-E8D9C2?style=for-the-badge&logo=anthropic&logoColor=45424A)
-
-<sub>Plus a lot of YAML, TOML and JSON from running Minecraft servers.</sub>
-
-<sub>Best way to reach me: [LinkedIn](https://www.linkedin.com/in/zain-abusal/) or hello@zainabusal.dev</sub>
+</div>
