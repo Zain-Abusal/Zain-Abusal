@@ -1,0 +1,40 @@
+{
+  "$schema": "https://raw.githubusercontent.com/MrLarkyy/Readmint/main/packages/format/schema/renders-v0.schema.json",
+  "renders": [
+    {
+      "name": "header",
+      "design": "header.json",
+      "variants": [
+        "dark"
+      ]
+    },
+    {
+      "name": "ticker",
+      "design": "ticker.json",
+      "variants": [
+        "dark"
+      ]
+    },
+    {
+      "name": "year",
+      "design": "year.json",
+      "variants": [
+        "dark"
+      ]
+    },
+    {
+      "name": "stack",
+      "design": "stack.json",
+      "variants": [
+        "dark"
+      ]
+    },
+    {
+      "name": "footer",
+      "design": "footer.json",
+      "variants": [
+        "dark"
+      ]
+    }
+  ]
+}
