@@ -1,0 +1,30 @@
+{
+  "header": {
+    "role": "Independent developer",
+    "roleDetail": "Software \u00b7 games \u00b7 infrastructure",
+    "workingOn": "Building ZCraft,",
+    "workingOnDetail": "tools, games & systems",
+    "statusNote": "Learning by building"
+  },
+  "stack": {
+    "languageShare": "repositories",
+    "labels": [
+      "Web & UI",
+      "Backend",
+      "Game development",
+      "Infrastructure"
+    ],
+    "items": [
+      "React\nTanStack Start\nTailwind CSS\nVite",
+      "Supabase\nPostgreSQL\nJava\nPython",
+      "Godot\nGDScript\nTypeScript\nJavaScript",
+      "Linux\nDocker\nCloudflare\nVercel"
+    ]
+  },
+  "footer": {
+    "headline": "Curiosity into\nworking software.",
+    "note": "Software, game systems\nand infrastructure.",
+    "contactLabel": "email",
+    "contactText": "hello@zainabusal.dev"
+  }
+}
